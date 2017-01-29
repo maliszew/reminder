@@ -1,4 +1,4 @@
-# simple recurring reminder app
+# simple recurring task reminder app
 
 Python + Tkinter
 
